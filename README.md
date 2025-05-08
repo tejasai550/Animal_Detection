@@ -18,8 +18,10 @@ Instructions:
    pip install tensorflow keras matplotlib
 
 2. Prepare your dataset for train and test.
-3. Open VGG16.ipynb using Jupyter Notebook.
-4. Run all cells to train and evaluate the model.
+link for dataset: "/kaggle/input/animals-detection-images-dataset"
+link for Imagent_weights: "/kaggle/input/imagent-weight"
+4. Open VGG16.ipynb using Jupyter Notebook.
+5. Run all cells to train and evaluate the model.
 
 Features:
 ---------
